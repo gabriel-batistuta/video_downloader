@@ -1,0 +1,6 @@
+__pycache__/
+test.py
+venv/
+.vscode/
+*.mp4
+*.mp3
